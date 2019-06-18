@@ -1,2 +1,2 @@
 # urmsredirect
-redirect to JDY arms
+redirect to JDY urms
